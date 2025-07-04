@@ -1,0 +1,242 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Roboto'sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* MOBILE FIST */
+main {
+    max-width: 33.0rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.0rem;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.0rem;
+}
+
+
+
+
+.barner-principal {
+    padding: 1.0rem;
+}
+
+.text-banner-principal h1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+.tres-produtos {
+    background-color: #2c2c2c;
+    /* display: flex;
+    flex-direction: column; */
+    
+}
+
+.tres-produtos img {
+    padding: 1.0rem;
+}
+
+.produtos-selecionados{
+    background-color: #EBEBEB;
+    /* background-color: #EBEBEB; */
+    padding: 1.0rem;
+}
+
+/* .cards {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+} */
+.card {
+    /* box-sizing: border-box; */
+    border: 2px solid #ccc;
+    max-width: 21.0rem;
+}
+
+.card p {
+    padding-left: 1.0rem;
+}
+
+.banner-relogio {
+    background-color: #2C2C2C;
+    padding: 1.0rem;
+    color: white;
+}
+
+.text-relogio {
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    /* padding: 5px 10px; */
+    padding: 0.5rem 1.0rem;
+    /* width: 150px; */
+    width: 15.0rem;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+
+/* sessao comentarios */
+.cometario-card {
+    /* border: 3px solid #ccc; */
+    padding: 2.0rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+/* sessao footer */
+footer {
+    max-width: 33.0rem;
+    margin: 0 auto;
+    background-color: #2c2c2c;
+    color: white;
+}
+
+
+.aplicativos {
+    padding: 1.0rem;
+    color: white;
+    
+}
+
+.imgs-footer {
+    display: flex;
+}
+.imgs-footer img {
+    max-width: 12.0rem;
+}
+
+.nome-footer {
+    text-align: center;
+}
+
+.nome-footer h2 span {
+    color: blue;
+}
+
+.links {
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.473);
+}
+
+/* creditos */
+.Creditos p {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* TABLEt */
+@media (min-width: 470px) {
+   main {
+        max-width: 85.0rem;
+    }
+
+    .barner-principal {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .caixa-imagem-principal {
+        max-width: 30.0rem;
+    }
+
+    .tres-produtos {
+        display: flex;
+        align-items: center;
+    }
+
+    .cards {
+        display: flex;
+    }
+
+    .banner-relogio {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .banner-relogio img {
+        max-width: 33.0rem;
+    }
+
+    .comentarios {
+        display: flex;
+        gap: 1.0rem;
+        padding: 1.0rem;
+    }
+
+    footer {
+        max-width: 85.0rem;
+    }
+    .baixar-aplicativos {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .aplicativos {
+        text-align: center;
+    }
+
+    .imgs-footer {
+        display: flex;
+        gap: 1.0rem;
+    }
+
+    .nome-footer p {
+        width: 40.0rem;
+    }
+}
+
+
+/* DESKTOP */
+@media (min-width: 880px) {
+    main {
+        max-width: 153.6rem;
+    }
+
+    .tres-produtos {
+        padding: 2.0rem;
+    }
+
+    .cards {
+        padding: 2.0rem;
+    }
+
+    .caixa-imagem-principal {
+        max-width: 50.0rem;
+    }
+
+    footer {
+    
+        max-width: 153.6rem
+    }
+        
+}

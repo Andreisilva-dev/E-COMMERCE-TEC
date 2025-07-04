@@ -1,0 +1,74 @@
+[
+    { "imagem":"images/produtos/product-1.png",
+      "nome":"Notebook lenovo PRO",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":2300
+    },
+    { "imagem":"images/produtos/product-2.png",
+      "nome":"Notebook lenovo",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":2000
+    },
+    { "imagem":"images/produtos/product-4.png",
+      "nome":"COMBO GAMER",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":500
+    },
+    { "imagem":"images/produtos/product-5.png",
+      "nome":"PLACA DE VIDEO GXFORCE",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":17999
+    },
+    { "imagem":"images/produtos/product-6.png",
+      "nome":"CONTROLE GAMER",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":3200
+    },
+    { "imagem":"images/produtos/product-7.png",
+      "nome":"CADEIRA GAMER RED",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":550
+    },
+    {
+      "imagem":"images/produtos/product-8.png",
+      "nome":"Iphone 16",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":1600
+    },
+    {
+      "imagem":"images/produtos/product-9.png",
+      "nome":"Sansung 23 Ultra",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":5000
+    },
+    {
+      "imagem":"images/produtos/product-11.png",
+      "nome":"POCO XPHONE",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":2600
+    },
+    {
+      "imagem":"images/produtos/product-10.png",
+      "nome":"XIAOMI",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":3600
+    },
+    {
+      "imagem":"images/produtos/product-12.png",
+      "nome":"XBOX",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":2600
+    },
+    {
+      "imagem":"images/produtos/product-13.png",
+      "nome":"VOLANTE",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":900
+    },
+    {
+      "imagem":"images/produtos/product-14.png",
+      "nome":"Playstation 5",
+      "starts":"&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "preco":3200
+    }
+]
