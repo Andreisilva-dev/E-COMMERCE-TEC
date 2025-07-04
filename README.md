@@ -15,6 +15,6 @@ Este é um projeto de e-commerce desenvolvido com foco em responsividade, intera
 - Layout responsivo para dispositivos móveis e desktops.
 - Código organizado com boas práticas de semântica e acessibilidade.
 
-## 📷 Imagens (opcional)
+## 📷 Imagens 
 ![image](https://github.com/user-attachments/assets/5efbdc4f-9472-45d4-9aa1-a42bdc2f7c38)
 
