@@ -12,7 +12,6 @@ Este é um projeto de e-commerce desenvolvido com foco em responsividade, intera
 ## 💡 Funcionalidades
 
 - Listagem dinâmica de produtos a partir de um arquivo JSON.
-- Adição e remoção de itens no carrinho.
 - Layout responsivo para dispositivos móveis e desktops.
 - Código organizado com boas práticas de semântica e acessibilidade.
 
