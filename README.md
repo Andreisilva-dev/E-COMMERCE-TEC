@@ -6,7 +6,7 @@ Este é um projeto de e-commerce desenvolvido com foco em responsividade, intera
 
 - **HTML5 Semântico** – Estruturação clara e acessível do conteúdo.
 - **CSS3 com Bootstrap** – Layout responsivo utilizando o sistema de grid e componentes do Bootstrap.
-- **JavaScript Puro** – Manipulação do DOM, interações com o usuário e lógica de carrinho de compras.
+- **JavaScript Puro** – Manipulação do DOM, interações com o usuário.
 - **JSON** – Armazenamento e carregamento dinâmico dos dados dos produtos.
 
 ## 💡 Funcionalidades
