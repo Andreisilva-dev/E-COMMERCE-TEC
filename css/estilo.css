@@ -98,6 +98,11 @@ button {
     border-radius: 10px;
 }
 
+.comentarios1 {
+    display: flex;
+    flex-direction: column;
+    gap: 2.0rem;
+}
 /* sessao comentarios */
 .cometario-card {
     /* border: 3px solid #ccc; */
